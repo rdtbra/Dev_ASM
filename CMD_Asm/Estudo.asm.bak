@@ -5,7 +5,7 @@
 ; Data: 19/08/2017
 ; Versao: 1.00
 ; 
-; Retomada dos Estudos de Assembler
+; Retomada dos Estudos de Assembler Teste
 ;
 ;----
 
